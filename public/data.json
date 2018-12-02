@@ -1,0 +1,82 @@
+[
+  {
+    "location": {
+      "lat": "17.387140",
+      "lng": "78.491684"
+    },
+    "place": "Hyderabad",
+    "state": "Telangana"
+  },
+  {
+    "location": {
+      "lat": "15.852792",
+      "lng": "74.498703"
+    },
+    "place": "Belgaum",
+    "state": "Karnataka"
+  },
+  {
+    "location": {
+      "lat": "12.972442",
+      "lng": "77.580643"
+    },
+    "place": "Bangalore",
+    "state": "Karnataka"
+  },
+  {
+    "location": {
+      "lat": "16.314209",
+      "lng": "80.435028"
+    },
+    "place": "Guntur",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "location": {
+      "lat": "16.515099",
+      "lng": "80.632095"
+    },
+    "place": "Vijayawada",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "location": {
+      "lat": "13.067439",
+      "lng": "80.237617"
+    },
+    "place": "Chennai",
+    "state": "Tamil Nadu"
+  },
+  {
+    "location": {
+      "lat": "12.9172",
+      "lng": "74.8560"
+    },
+    "place": "Mangalore",
+    "state": "Karnataka"
+  },
+  {
+    "location": {
+      "lat": "18.516726",
+      "lng": "73.856255"
+    },
+    "place": "Pune",
+    "state": "Maharashtra"
+  },
+  {
+    "location": {
+      "lat": "9.383452",
+      "lng": "76.574059"
+    },
+    "place": "Thiruvalla",
+    "state": "Kerala"
+  },
+  {
+    "location": {
+      "lat": "20.296059",
+      "lng": "85.824539"
+    },
+    "place": "Bhubaneswar",
+    "state": "Odisha"
+  }
+]
